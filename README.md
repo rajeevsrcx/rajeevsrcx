@@ -5,6 +5,3 @@
 - 🤝 I’m looking to collaborate on new ventures and side hustles that pushes boundaries.
 - ⚡ Fun fact: AI can take away other AI's job 🤖⚔️.
 
-## 📈 Stats
-
-![github stats](https://github-readme-stats.vercel.app/api?username=sourcerajeev&count_private=true&theme=radical&show_icons=true&include_all_commits=true)
